@@ -1,0 +1,1 @@
+# Proje-Belirtilmemis-Sirket-Oracle-SQL-ile-Veri-Tabani-Sorgulama
